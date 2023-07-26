@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klaborda
 - 👀 I’m interested in full-stack software (React, Node.js, Go)
-- 🌱 I’m currently learning Lua for Factorio
+- 🌱 I’m currently tinkering with Proxmox and building up a homelab!
 - 📫 Check me out at [klaborda.me](https://klaborda.me)
 
 <!---
